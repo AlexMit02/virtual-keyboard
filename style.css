@@ -1,0 +1,23 @@
+#keyboard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+  }
+  
+  button {
+    font-size: 24px;
+    padding: 12px 24px;
+    margin: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3b14e7;
+  }
+  
